@@ -1,3 +1,7 @@
+The floor is lava. You take damage when on the floor. Use "give all" command to get all weapons. All weapons have modified rate of fire/kick/damage
+
+Added a README on Quake2Mod repo before 12 am 12/19. Didnt end up using that repo and made this after 12. Dont know if I lose points for the README deliverable. 
+
 
 This is the complete source code for Quake 2, version 3.19, buildable with
 visual C++ 6.0.  The linux version should be buildable, but we haven't
